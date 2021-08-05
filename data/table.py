@@ -16,3 +16,14 @@ dash=101101
 period=101110
 forward_slash=101111
 
+# Numbers
+zero=110000
+one=110001
+two=110010
+three=110011
+four=110100
+five=110101
+six=110110
+seven=110111
+eight=111000
+nine=111001
