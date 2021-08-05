@@ -34,16 +34,16 @@ absolute_bar="|"
 tidle="~"
 
 # Numbers
-zero=110000
-one=110001
-two=110010
-three=110011
-four=110100
-five=110101
-six=110110
-seven=110111
-eight=111000
-nine=111001
+zero="0"
+one="1"
+two="2"
+three="3"
+four="4"
+five="5"
+six="6"
+seven="7"
+eight="8"
+nine="9"
 
 # Capitals
 cap_a=1000001
