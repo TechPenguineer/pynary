@@ -28,6 +28,10 @@ open_square_right=1011101
 up_arrow=1011110
 underscore=1011111
 grave_accent=1100000
+curly_bracket_left=1111011
+curly_bracket_right=1111101
+absolute_bar=1111100
+tidle=1111110
 
 # Numbers
 zero=110000
