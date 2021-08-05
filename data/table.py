@@ -1,5 +1,5 @@
 # Special Symbol
-space=100000
+space=100000 
 exlamation_point=100001
 double_quote=100010
 pound=100011
@@ -15,6 +15,12 @@ comma=101100
 dash=101101
 period=101110
 forward_slash=101111
+colon=111010
+semi_colon=111011
+greater_than=111100
+equals=111101
+less_than=111110
+question_mark=111111
 
 # Numbers
 zero=110000
