@@ -5,7 +5,7 @@ double_quote=100010
 pound=100011
 dollarsign=100100
 precentage_sign=100101
-at_sign=100110
+and_sign=100110
 single_quote=100111
 left_parenthese=101000
 right_parenthese=101001
@@ -21,6 +21,7 @@ greater_than=111100
 equals=111101
 less_than=111110
 question_mark=111111
+at_sign=1000000
 
 # Numbers
 zero=110000
