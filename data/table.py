@@ -22,6 +22,12 @@ equals=111101
 less_than=111110
 question_mark=111111
 at_sign=1000000
+open_square_left=1011011
+backslash=1011100
+open_square_right=1011101
+up_arrow=1011110
+underscore=1011111
+grave_accent=1100000
 
 # Numbers
 zero=110000
